@@ -1,7 +1,3 @@
 {
-  "keys": [
-    "RAFAEL-123-ABC-KEY",
-    "TEST-KEY-2025",
-    "LICENSE-VALID-999"
-  ]
+  "keys": ["LICENSE-001", "LICENSE-002", "MY-PRIVATE-LICENSE"]
 }
