@@ -1,8 +1,3 @@
 {
-  "keys": [
-    "LICENSE-001",
-    "LICENSE-002",
-    "MY-PRIVATE-LICENSE",
-    "p"
-  ]
+  "keys": ["YOUR_LICENSE_KEY"]
 }
